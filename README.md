@@ -4,8 +4,9 @@ Uma calculadora simples feita em Java com interface gráfica (Swing), conta com 
 
 Licenciada em MIT LICENSE, leia o arquivo LICENSE.
 
-Nome do autor: Luan Gabriel
-Github do autor: luan004
+Nome do autor:        Luan Gabriel
+Github do autor:      luan004
+Versão mais recente:  1.0
 
 
 # 🇺🇸
@@ -14,5 +15,6 @@ A simple calculator made in Java with a graphical interface (Swing), with a prec
 
 Licensed under MIT LICENSE, read the LICENSE file.
 
-Author name: Luan Gabriel
-Author's Github: luan004
+Author name:          Luan Gabriel
+Author's Github:      luan004
+Latest version:       1.0
