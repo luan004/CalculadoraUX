@@ -9,7 +9,7 @@ public class Main {
 		 * author e-mail         luan.gabriel.ifpr@gmail.com
 		 * author github         luan004
 		 * 
-		 * copyright             (informações do método, pra que serve, idéia principal
+		 * copyright             MIT LICENSE
 		 */
 		
 		UX ux = new UX();
